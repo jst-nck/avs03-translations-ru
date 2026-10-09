@@ -2037,7 +2037,7 @@ msgstr "Громкость ключгена"
 #. Settings menu
 #. source: Main Menu Computer Sound
 msgid "SETTINGS.menu_computer_sound"
-msgstr "Звуки ПК в главном меню"
+msgstr "Звук ПК в главном меню"
 
 #. Settings menu
 #. source: Animation Speed
@@ -2104,7 +2104,7 @@ msgstr "Громкость проигрываемой музыки."
 #. Settings menu
 #. source: Volume for sound effects.
 msgid "SETTINGS.sfx_volume_tip"
-msgstr "Громкость, используемая всеми звуковыми эффектами."
+msgstr "Громкость звуковых эффектов."
 
 #. Settings menu
 #. source: Volume for Keygen windows that play their own track.
@@ -2114,7 +2114,7 @@ msgstr "Громкость окон ключгена, использующие �
 #. Settings menu
 #. source: Play the computer humming sound on the main menu.
 msgid "SETTINGS.menu_computer_sound_tip"
-msgstr "Проигрывает звук \"вертушек\" компьютера в главном меню.f"
+msgstr "Проигрывает звук вентиляторов компьютера в главном меню."
 
 #. Settings menu
 #. source: Language for menus and in-game text.
